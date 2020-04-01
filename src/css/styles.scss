@@ -1,0 +1,110 @@
+html {
+    background-color: #f5f5f5;
+    font-family: 'PT Sans', sans-serif;
+}
+
+body {
+    transition: all .5s;
+    min-height: 100vh;
+    background-image: url('../images/background.png');
+}
+
+footer {
+    transition: all .5s;
+}
+
+
+
+.flexCont {
+    min-height: 93vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.wordsCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'PT Serif', serif;
+    font-size: 7rem;
+    word-wrap: break-word;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+button:hover,
+button:active,
+button:focus {
+    background-color: transparent !important;
+}
+
+.text-highlight {
+    color: black;
+    background-color: rgba(255, 147, 0, 0.5);
+    padding: 2px 4px;
+}
+
+.text-highlight:hover {
+    color: white;
+    background-color: rgba(41, 152, 255, 0.5) !important;
+    transition: all .2s;
+}
+
+/* Sweep To Right */
+.hvr-sweep-to-right {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    -webkit-transition-property: color;
+    transition-property: color;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+
+.hvr-sweep-to-right:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(41, 152, 255, 0.5);
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transform-origin: 0 50%;
+    transform-origin: 0 50%;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+}
+
+.hvr-sweep-to-right:hover,
+.hvr-sweep-to-right:focus,
+.hvr-sweep-to-right:active {
+    color: white;
+}
+
+.hvr-sweep-to-right:hover:before,
+.hvr-sweep-to-right:focus:before,
+.hvr-sweep-to-right:active:before {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+}
+

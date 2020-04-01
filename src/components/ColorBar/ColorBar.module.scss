@@ -1,0 +1,54 @@
+.colorBand {
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(270deg, #503873, #ff4d4d, #ffb21e, #ffd583, #7fc400, #0088cc, #73d2f6);
+    background-size: 1400% 1400%;
+
+    -webkit-animation: BGGradient 30s ease infinite;
+    -moz-animation: BGGradient 30s ease infinite;
+    animation: BGGradient 30s ease infinite;
+
+    z-index: 5;
+}
+
+@-webkit-keyframes BGGradient {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@-moz-keyframes BGGradient {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}
+
+@keyframes BGGradient {
+    0% {
+        background-position: 0% 50%
+    }
+
+    50% {
+        background-position: 100% 50%
+    }
+
+    100% {
+        background-position: 0% 50%
+    }
+}

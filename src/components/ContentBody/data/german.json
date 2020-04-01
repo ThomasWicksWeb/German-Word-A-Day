@@ -1,0 +1,2191 @@
+[{
+        "wordDE": "Aufnehmen",
+        "wordEN": "to record, to take up",
+        "type": "Verb",
+        "sentence": "Ich nehme das Theaterstück auf!"
+    },
+    {
+        "wordDE": "Der Apparat, -e",
+        "wordEN": "The apparatus",
+        "type": "Noun",
+        "sentence": "Was machst du mit dem alten Apparat?"
+    },
+    {
+        "wordDE": "Die Arbeit, -en",
+        "wordEN": "The work",
+        "type": "Noun",
+        "sentence": "Ich suche nach Arbeit"
+    },
+    {
+        "wordDE": "Zuhören",
+        "wordEN": "To listen to",
+        "type": "Verb",
+        "sentence": "Ich höre dir nicht mehr zu!"
+    },
+    {
+        "wordDE": "Aufpassen",
+        "wordEN": "To watch out, to look out",
+        "type": "Verb",
+        "sentence": "Pass auf, er kommt jetzt!"
+    },
+    {
+        "wordDE": "Aufstehen",
+        "wordEN": "To stand up, to get up",
+        "type": "Verb",
+        "sentence": "Ich stehe um 8 Uhr auf."
+    },
+    {
+        "wordDE": "Einsteigen",
+        "wordEN": "To get in, to climb in",
+        "type": "Verb",
+        "sentence": "Steig schon ins Auto ein, wir gehen gleich."
+    },
+    {
+        "wordDE": "Außer",
+        "wordEN": "except",
+        "type": "Preposition",
+        "sentence": "Ich liebe jeden außer dir, Kumpel"
+    },
+    {
+        "wordDE": "Beginnen",
+        "wordEN": "To begin, to start",
+        "type": "Verb",
+        "sentence": "Das Spiel beginnt um 9 Uhr."
+    },
+    {
+        "wordDE": "das Baby, -s",
+        "wordEN": "The baby",
+        "type": "Noun",
+        "sentence": "Das Baby ist sehr klein!"
+    },
+    {
+        "wordDE": "Der Babysitter",
+        "wordEN": "The babysitter",
+        "type": "Noun",
+        "sentence": "Ich sehe den Babysitter dort drüben."
+    },
+    {
+        "wordDE": "Die Bahn, -en",
+        "wordEN": "The train",
+        "type": "Noun",
+        "sentence": "Wir fahren mit der Bahn."
+    },
+    {
+        "wordDE": "Der Bahnhof, -ö e",
+        "wordEN": "The train station",
+        "type": "Noun",
+        "sentence": "Wir rennen durch den Bahnhof."
+    },
+    {
+        "wordDE": "Der Balkon, -e",
+        "wordEN": "The balcony",
+        "type": "Noun",
+        "sentence": "Wir sitzen auf dem Balkon"
+    },
+    {
+        "wordDE": "Der Baum, die Bäume",
+        "wordEN": "The tree",
+        "type": "Noun",
+        "sentence": "Wir haben vier Bäume im Garten."
+    },
+    {
+        "wordDE": "Das Buch, die Bücher",
+        "wordEN": "The book",
+        "type": "Noun",
+        "sentence": "Hast du das Buch gelesen?"
+    },
+    {
+        "wordDE": "bitter",
+        "wordEN": "bitter",
+        "type": "Adjective",
+        "sentence": "Der Kaffee schmeckt richtig bitter!"
+    },
+    {
+        "wordDE": "Das Büro, -s",
+        "wordEN": "The office",
+        "type": "Noun",
+        "sentence": "Wir arbeiten im Büro zusammen"
+    },
+    {
+        "wordDE": "Der Bus, -se",
+        "wordEN": "The bus",
+        "type": "Noun",
+        "sentence": "Der nächste Bus kommt, sobald man ihn sieht!"
+    },
+    {
+        "wordDE": "deutlich",
+        "wordEN": "clearly, distinctly, noticeably",
+        "type": "Adverb",
+        "sentence": "Kannst du bitte deutlich sprechen?!"
+    },
+    {
+        "wordDE": "deshalb",
+        "wordEN": "that's why",
+        "type": "Adverb",
+        "sentence": "Deshalb habe ich gar keine Freunde."
+    },
+    {
+        "wordDE": "dick",
+        "wordEN": "thick",
+        "type": "Adjective",
+        "sentence": "'Bin ich noch dick?' 'Nur im Kopf!'"
+    },
+    {
+        "wordDE": "Die Disco, -s",
+        "wordEN": "The club",
+        "type": "Noun",
+        "sentence": "Können wir heute in die Disco gehen bitte?"
+    },
+    {
+        "wordDE": "damals",
+        "wordEN": "back then",
+        "type": "Adverb",
+        "sentence": "Damals war ich sehr cool! Doch jetzt..."
+    },
+    {
+        "wordDE": "Die Dame, -n",
+        "wordEN": "The lady",
+        "type": "Noun",
+        "sentence": "Habe ich recht, meine Damen und Herren!"
+    },
+    {
+        "wordDE": "Die Datei, -en",
+        "wordEN": "The data",
+        "type": "Noun",
+        "sentence": "Hast du die Datei gespeichert?"
+    },
+    {
+        "wordDE": "Das Einkaufszentrum, -en",
+        "wordEN": "The shopping center / the mall",
+        "type": "Noun",
+        "sentence": "Kommst du morgen mit ins Einkaufszentrum?"
+    },
+    {
+        "wordDE": "Dürfen",
+        "wordEN": "To be permitted to / to be allowed to",
+        "type": "Verb",
+        "sentence": "Darf ich mit meinen Freunden rumhängen?"
+    },
+    {
+        "wordDE": "Die Dusche, -n",
+        "wordEN": "The shower",
+        "type": "Noun",
+        "sentence": "Wirf den Hund bitte unter die Dusche"
+    },
+    {
+        "wordDE": "Die Ecke",
+        "wordEN": "The corner",
+        "type": "Noun",
+        "sentence": "Der Hund spaziert um die Ecke."
+    },
+    {
+        "wordDE": "Durch",
+        "wordEN": "through",
+        "type": "Preposition",
+        "sentence": "Wir fahren morgen durch die Burg"
+    },
+    {
+        "wordDE": "Das Feuerzeug",
+        "wordEN": "The lighter",
+        "type": "Noun",
+        "sentence": "Sei vorsichtig! Das Feuerzeug ist sehr heiß... so wie du! 😏"
+    },
+    {
+        "wordDE": "Die Fahrkarte, -n",
+        "wordEN": "The driver's license",
+        "type": "Noun",
+        "sentence": "Du hast schon eine Fahrkarte!?"
+    },
+    {
+        "wordDE": "Fallen",
+        "wordEN": "To fall",
+        "type": "Verb",
+        "sentence": "Fallen Sie nicht von der Leiter!"
+    },
+    {
+        "wordDE": "Finden",
+        "wordEN": "To find",
+        "type": "Verb",
+        "sentence": "Ich habe noch nicht meine Frau gefunden."
+    },
+    {
+        "wordDE": "Die Firma, -en",
+        "wordEN": "The company",
+        "type": "Noun",
+        "sentence": "Die Firma sieht sehr gut aus."
+    },
+    {
+        "wordDE": "Die Flasche, -n",
+        "wordEN": "The bottle",
+        "type": "Noun",
+        "sentence": "Noch eine Flasche Bier, bitte!"
+    },
+    {
+        "wordDE": "Das Flugzeug, -e",
+        "wordEN": "The plane",
+        "type": "Noun",
+        "sentence": "Hast du mal im Flugzeug geschlafen?"
+    },
+    {
+        "wordDE": "Der Fluss, die Flüsse",
+        "wordEN": "The river",
+        "type": "Noun",
+        "sentence": "Der Rhein ist ein großer Fluss"
+    },
+    {
+        "wordDE": "Das Foto, -s",
+        "wordEN": "The photo",
+        "type": "Noun",
+        "sentence": "Das foto ist richtig gut!"
+    },
+    {
+        "wordDE": "Die frage, -n",
+        "wordEN": "The question",
+        "type": "Noun",
+        "sentence": "Kann ich dir schnell eine Frage stellen?"
+    },
+    {
+        "wordDE": "Der Gast, die Gäste",
+        "wordEN": "The guest",
+        "type": "Noun",
+        "sentence": "Wo sind die Gäste gegangen?"
+    },
+    {
+        "wordDE": "Gefährlich",
+        "wordEN": "Dangerous",
+        "type": "adjective",
+        "sentence": "Tue das nicht! Es ist echt gefährlich"
+    },
+    {
+        "wordDE": "Freundlich",
+        "wordEN": "Friendly",
+        "type": "adjective",
+        "sentence": "Ich liebe sie, weil sie so freundlich ist."
+    },
+    {
+        "wordDE": "Gefährlich",
+        "wordEN": "Dangerous",
+        "type": "adjective",
+        "sentence": "Mach das nicht! Es ist zu gefährlich"
+    },
+    {
+        "wordDE": "Gleich",
+        "wordEN": "'in a moment', 'equally' or 'the same'",
+        "type": "adjective",
+        "sentence": "Die Zwillinge sehen total gleich aus."
+    },
+    {
+        "wordDE": "Genau",
+        "wordEN": "Exactly",
+        "type": "Adverb/Adjective",
+        "sentence": "Dieser Satz ist schrecklich. Genau!"
+    },
+    {
+        "wordDE": "Der Kiosk, -e",
+        "wordEN": "The Kiosk",
+        "type": "Noun",
+        "sentence": "Ich arbeite am Kiosk in der Mall."
+    },
+    {
+        "wordDE": "Das Klavier, -e",
+        "wordEN": "The piano",
+        "type": "Noun",
+        "sentence": "Ich spiele gerne Klavier."
+    },
+    {
+        "wordDE": "Die Kirche, -n",
+        "wordEN": "The church",
+        "type": "Noun",
+        "sentence": "Sonntags gehen wir in die Kirche"
+    },
+    {
+        "wordDE": "Die Kleidung",
+        "wordEN": "The clothing",
+        "type": "Noun",
+        "sentence": "Ich muss mehr Kleidung kaufen."
+    },
+    {
+        "wordDE": "Klappen",
+        "wordEN": "To work (function)",
+        "type": "Verb",
+        "sentence": "Können wir später gehen? - Ja das klappt!"
+    },
+    {
+        "wordDE": "Kochen",
+        "wordEN": "To cook",
+        "type": "Verb",
+        "sentence": "Ich koche gerne Kuchen"
+    },
+    {
+        "wordDE": "Kommen",
+        "wordEN": "To come",
+        "type": "Verb",
+        "sentence": "Ich komme gleich!"
+    },
+    {
+        "wordDE": "Komisch",
+        "wordEN": "Funny",
+        "type": "adjective",
+        "sentence": "Der Film was sehr komisch!"
+    },
+    {
+        "wordDE": "Die Kreuzung, -en",
+        "wordEN": "The crossroad",
+        "type": "Noun",
+        "sentence": "Wir warten an der Kreuzung auf Sie"
+    },
+    {
+        "wordDE": "Der Kopf, die Köpfe",
+        "wordEN": "The head",
+        "type": "Noun",
+        "sentence": "Mein Kopf tut weh! Hilf mir!"
+    },
+    {
+        "wordDE": "Kosten",
+        "wordEN": "To cost",
+        "type": "Verb",
+        "sentence": "Wie viel Geld kostet der Kaffee?"
+    },
+    {
+        "wordDE": "Die Lampe, -n",
+        "wordEN": "The lamp",
+        "type": "Noun",
+        "sentence": "Die Lampe ist wirklich hell"
+    },
+    {
+        "wordDE": "Die Lüge, -n",
+        "wordEN": "The lie",
+        "type": "Noun",
+        "sentence": "Erzähle mir keine Lügen!"
+    },
+    {
+        "wordDE": "Möglich",
+        "wordEN": "Possible",
+        "type": "adjective",
+        "sentence": "Das ist gar nicht möglich, dass ich heute nach Hause kommen kann."
+    },
+    {
+        "wordDE": "Nervös",
+        "wordEN": "Nervous",
+        "type": "adjective",
+        "sentence": "Sei nicht no nervös! Es wird gut!"
+    },
+    {
+        "wordDE": "Das Ohr, -en",
+        "wordEN": "The ear",
+        "type": "Noun",
+        "sentence": "Meine Ohren sind sehr groß"
+    },
+    {
+        "wordDE": "Die Party, -s",
+        "wordEN": "The party",
+        "type": "Noun",
+        "sentence": "Komm mit! Die Party wird richtig geil!"
+    },
+    {
+        "wordDE": "Überprüfen",
+        "wordEN": "To check",
+        "type": "Verb",
+        "sentence": "Vergiss nicht, den Test zu überprüfen."
+    },
+    {
+        "wordDE": "Die Qualität, -en",
+        "wordEN": "The quality",
+        "type": "Noun",
+        "sentence": "Die Qualität ist mindestens gut genug, denke ich."
+    },
+    {
+        "wordDE": "Reden",
+        "wordEN": "To talk",
+        "type": "Verb",
+        "sentence": "Wir können später mit ihr reden."
+    },
+    {
+        "wordDE": "Die Regierung",
+        "wordEN": "The government",
+        "type": "Noun",
+        "sentence": "Wir haben eine Regierung in dieser Land."
+    },
+    {
+        "wordDE": "Das Salz, -e",
+        "wordEN": "The salt",
+        "type": "Noun",
+        "sentence": "Kannst du mir das Salz geben, bitte?."
+    },
+    {
+        "wordDE": "Schädlich",
+        "wordEN": "harmful",
+        "type": "Adjective",
+        "sentence": "Rauchen ist sehr schädlich, also rauchen sie nicht."
+    },
+    {
+        "wordDE": "Der Ring",
+        "wordEN": "The ring",
+        "type": "Noun",
+        "sentence": "Ich habe heute einen neuen Ring gekauft."
+    },
+    {
+        "wordDE": "Das Schlafzimmer",
+        "wordEN": "The bedroom",
+        "type": "Noun",
+        "sentence": "Willst du mein Schlafzimmer sehen? 😏"
+    },
+    {
+        "wordDE": "Schlecht",
+        "wordEN": "bad",
+        "type": "Adjective",
+        "sentence": "Ich hoffe, dass heute gar nicht schlecht ist!"
+    },
+    {
+        "wordDE": "Die Sehenswürdigkeiten, -en",
+        "wordEN": "The attractions/sights",
+        "type": "Noun",
+        "sentence": "Diese Sehenswürdigkeiten sind sehr cool, genauso wie dich!"
+    },
+    {
+        "wordDE": "Die Schule, -n",
+        "wordEN": "The school",
+        "type": "Noun",
+        "sentence": "Muss ich heute in die Schule gehen?"
+    },
+    {
+        "wordDE": "Sonnig",
+        "wordEN": "sunny",
+        "type": "Adjective",
+        "sentence": "Es gibt keine Wolken am Himmel, daher ist es heute sehr sonnig"
+    },
+    {
+        "wordDE": "Stehen",
+        "wordEN": "To stand",
+        "type": "Verb",
+        "sentence": "Wie lange muss ich hier stehen?"
+    },
+    {
+        "wordDE": "Die Straße, -n",
+        "wordEN": "The street",
+        "type": "Noun",
+        "sentence": "Wir chillen auf der Straße Brudi"
+    },
+    {
+        "wordDE": "Die Suppe, -n",
+        "wordEN": "The soup",
+        "type": "Noun",
+        "sentence": "Die Suppe schmekt sehr sehr gut!"
+    },
+    {
+        "wordDE": "Das Tier, -e",
+        "wordEN": "The animal",
+        "type": "Noun",
+        "sentence": "Ein Vogel ist ein Tier"
+    },
+    {
+        "wordDE": "Der Text",
+        "wordEN": "The text",
+        "type": "Noun",
+        "sentence": "Hast du meinen Text gelesen?"
+    },
+    {
+        "wordDE": "Das Haustier",
+        "wordEN": "The pet",
+        "type": "Noun",
+        "sentence": "Kann ich ein Haustier haben? Ich will einen Hund!"
+    },
+    {
+        "wordDE": "Der Tisch, -e",
+        "wordEN": "The table",
+        "type": "Noun",
+        "sentence": "Dieser Tisch ist aus Holz"
+    },
+    {
+        "wordDE": "Das Thema, -en",
+        "wordEN": "The topic",
+        "type": "Noun",
+        "sentence": "Dieses Thema ist richtig interssant"
+    },
+    {
+        "wordDE": "Der Traum, die Träume",
+        "wordEN": "The dream",
+        "type": "Noun",
+        "sentence": "Manchmal sehe ich dich in meinen Träumen."
+    },
+    {
+        "wordDE": "Der Arm, -e",
+        "wordEN": "The arm",
+        "type": "Noun",
+        "sentence": "Mein Arm tut so weh! Ich glaube, dass er gebrochen ist."
+    },
+    {
+        "wordDE": "Merken",
+        "wordEN": "To notice",
+        "type": "Verb",
+        "sentence": "Wie hast du das noch nicht gemerkt? Es war so offensichtlich!"
+    },
+    {
+        "wordDE": "Das Auto, -s",
+        "wordEN": "The car",
+        "type": "Noun",
+        "sentence": "Das Auto ist rot!"
+    },
+    {
+        "wordDE": "Die Decke",
+        "wordEN": "The blanket",
+        "type": "Noun",
+        "sentence": "Die Decke hält mich warm, wenn es kalt ist."
+    },
+    {
+        "wordDE": "Das Detail, -s",
+        "wordEN": "The detail",
+        "type": "Noun",
+        "sentence": "Dieses Detail ist echt wichtig zu wissen."
+    },
+    {
+        "wordDE": "Der Dialog, -e",
+        "wordEN": "The dialogue",
+        "type": "Noun",
+        "sentence": "Wurde dieser Dialog von einem Kind geschrieben?"
+    },
+    {
+        "wordDE": "Das Dokument, -e",
+        "wordEN": "The document",
+        "type": "Noun",
+        "sentence": "Dieses Dokument macht doch keinen Sinn!"
+    },
+    {
+        "wordDE": "Die Droge, -n",
+        "wordEN": "The drug",
+        "type": "Noun",
+        "sentence": "Drogen können sowohl hilfreich, als auch schlecht sein"
+    },
+    {
+        "wordDE": "Dumm",
+        "wordEN": "Dumb",
+        "type": "Adjective",
+        "sentence": "Manchmal denke ich, dass ich dumm bin, aber ich bin nicht!"
+    },
+    {
+        "wordDE": "Dunkel",
+        "wordEN": "dark",
+        "type": "Adjective",
+        "sentence": "Es ist super dunkel in dieser Höhle"
+    },
+    {
+        "wordDE": "Eigentlich",
+        "wordEN": "actually",
+        "type": "adverb",
+        "sentence": "Ich bin eigentlich sehr stark!"
+    },
+    {
+        "wordDE": "Die Erinnerung, -en",
+        "wordEN": "'The reminder' or 'The memory'",
+        "type": "Noun",
+        "sentence": "Hey Siri, richte eine Erinnerung heute um 17:30 ein."
+    },
+    {
+        "wordDE": "Endlich",
+        "wordEN": "finally",
+        "type": "Adverb",
+        "sentence": "Endlich habe ich Arbeit!"
+    },
+    {
+        "wordDE": "Die Energie, -n",
+        "wordEN": "The energy",
+        "type": "Noun",
+        "sentence": "Windturbinen verwenden die Energie des Winds, um Strom herzustellen."
+    },
+    {
+        "wordDE": "Die Erde",
+        "wordEN": "The earth",
+        "type": "Noun",
+        "sentence": "Die Erde ist unser Zuhause"
+    },
+    {
+        "wordDE": "die Fähigkeit, -en",
+        "wordEN": "The skill",
+        "type": "Noun",
+        "sentence": "Hast du Fähigkeiten? -Nein"
+    },
+    {
+        "wordDE": "Erstellen",
+        "wordEN": "To create",
+        "type": "Verb",
+        "sentence": "Jeden Tag will ich etwas Neues erstellen!"
+    },
+    {
+        "wordDE": "Das Kopfgeld",
+        "wordEN": "The bounty",
+        "type": "Noun",
+        "sentence": "Das Kopfgeld ist $100!"
+    },
+    {
+        "wordDE": "Der Weg",
+        "wordEN": "The way/path",
+        "type": "Noun",
+        "sentence": "Wir sind schon auf dem Weg!"
+    },
+    {
+        "wordDE": "Erreichen",
+        "wordEN": "To reach (an objective)",
+        "type": "Verb",
+        "sentence": "Kontrollpunkt erreicht! +1!"
+    },
+    {
+        "wordDE": "Der Fehler",
+        "wordEN": "The mistake",
+        "type": "Noun",
+        "sentence": "Jeder macht Fehler, ich weiß, ich weiß"
+    },
+    {
+        "wordDE": "Fällig",
+        "wordEN": "due",
+        "type": "Adjective",
+        "sentence": "Der Test ist um 16 Uhr fällig"
+    },
+    {
+        "wordDE": "Das Fenster",
+        "wordEN": "The window",
+        "type": "Noun",
+        "sentence": "Wirf dich aus dem Fenster nicht!"
+    },
+    {
+        "wordDE": "Fertig",
+        "wordEN": "finished/completed",
+        "type": "Adjective",
+        "sentence": "Ja Mutti! Meine Hausaufgaben sind schon fertig!"
+    },
+    {
+        "wordDE": "die Flagge, -n",
+        "wordEN": "The flag",
+        "type": "Noun",
+        "sentence": "Hänge die Flagge hoch!"
+    },
+    {
+        "wordDE": "Unterwegs",
+        "wordEN": "On the way",
+        "type": "Adverb",
+        "sentence": "Ich komme jetzt. Wir sind alle unterwegs!"
+    },
+    {
+        "wordDE": "Überweisen",
+        "wordEN": "To transfer",
+        "type": "Verb",
+        "sentence": "Kannst du mir schon das Geld überweisen?"
+    },
+    {
+        "wordDE": "Verdienen",
+        "wordEN": "To earn",
+        "type": "Verb",
+        "sentence": "Ich habe einen neuen Job, und jetzt verdiene ich mehr geld."
+    },
+    {
+        "wordDE": "Vergleichen",
+        "wordEN": "To compare",
+        "type": "Verb",
+        "sentence": "Vergleichen Sie die Angebote."
+    },
+    {
+        "wordDE": "Verlieren",
+        "wordEN": "To lose",
+        "type": "Verb",
+        "sentence": "Wir verlieren das Spiel! Ach! Wir haben es verloren"
+    },
+    {
+        "wordDE": "Verpassen",
+        "wordEN": "To miss",
+        "type": "Verb",
+        "sentence": "Ich habe den Zug verpasst"
+    },
+    {
+        "wordDE": "Die Verspätung, -en",
+        "wordEN": "The delay",
+        "type": "Noun",
+        "sentence": "Diese Verspätung ist so nervig"
+    },
+    {
+        "wordDE": "Wahrscheinlich",
+        "wordEN": "Probably",
+        "type": "Adverb",
+        "sentence": "Das war wahrscheinlich nicht meine Schuld... glaube mir oder nicht"
+    },
+    {
+        "wordDE": "Der Wald, die Wälder",
+        "wordEN": "The forrest",
+        "type": "Noun",
+        "sentence": "Im Wald ist es echt ruhig."
+    },
+    {
+        "wordDE": "Warten",
+        "wordEN": "To wait",
+        "type": "Verb",
+        "sentence": "Du lässt mich 4 Stunden warten?!"
+    },
+    {
+        "wordDE": "Wiederholen",
+        "wordEN": "To repeat",
+        "type": "Verb",
+        "sentence": "Ich habe dich nicht gehört. Kannst du das wiederholen?"
+    },
+    {
+        "wordDE": "Wegen",
+        "wordEN": "because of",
+        "type": "Adverb",
+        "sentence": "Wir gehen jetzt wegen des Unwetters!"
+    },
+    {
+        "wordDE": "Der Witz, -e",
+        "wordEN": "The joke",
+        "type": "Noun",
+        "sentence": "Dieser Witz was nicht lustig"
+    },
+    {
+        "wordDE": "Spaß machen",
+        "wordEN": "To joke",
+        "type": "Verb",
+        "sentence": "Ernsthaft? Neeiinnn Ich mache nur Spaß!"
+    },
+    {
+        "wordDE": "Wenigstens",
+        "wordEN": "At least",
+        "type": "Adverb",
+        "sentence": "Ich habe wenigstens 3 Stunden frei"
+    },
+    {
+        "wordDE": "Der Wunsch, Die Wünsche",
+        "wordEN": "The wish",
+        "type": "Noun",
+        "sentence": "Hast du einen guten Wunsch gemacht?"
+    },
+    {
+        "wordDE": "Die Zahl, -en",
+        "wordEN": "The number",
+        "type": "Noun",
+        "sentence": "13 und 2 sind meine Lieblingszahlen"
+    },
+    {
+        "wordDE": "Zusammen",
+        "wordEN": "Together",
+        "type": "Adverb",
+        "sentence": "Lass uns später zusammen gehen!"
+    },
+    {
+        "wordDE": "Die Ahnung",
+        "wordEN": "The idea",
+        "type": "Noun",
+        "sentence": "Ich habe gar keine Ahnung, was ich hier schreiben soll."
+    },
+    {
+        "wordDE": "Allein",
+        "wordEN": "Alone",
+        "type": "Adjective",
+        "sentence": "Ich bin doch immer allein"
+    },
+    {
+        "wordDE": "Die Anlage, -n",
+        "wordEN": "The attachment",
+        "type": "Noun",
+        "sentence": "Diese Anlage ist zu groß für die Kamera"
+    },
+    {
+        "wordDE": "Anschließen",
+        "wordEN": "To connect",
+        "type": "Verb",
+        "sentence": "Wie kann ich meinen Computer zum WLAN anschließen?"
+    },
+    {
+        "wordDE": "Arbeitslos",
+        "wordEN": "Unemployed",
+        "type": "Adjective",
+        "sentence": "Ich bin wieder arbeitslos"
+    },
+    {
+        "wordDE": "Aufwachen",
+        "wordEN": "To wake up",
+        "type": "Verb",
+        "sentence": "Ich wache heute um 8 Uhr auf"
+    },
+    {
+        "wordDE": "Der Augenblick, -e",
+        "wordEN": "The moment",
+        "type": "Noun",
+        "sentence": "Dieser Augenblick war weit zu schnell"
+    },
+    {
+        "wordDE": "Der Bauer, -n",
+        "wordEN": "The farmer",
+        "type": "Noun",
+        "sentence": "Der Bauer ist sehr schmutzig"
+    },
+    {
+        "wordDE": "Die Bank, die Bänke",
+        "wordEN": "The bench",
+        "type": "Noun",
+        "sentence": "Wir chillen auf der Rückbank"
+    },
+    {
+        "wordDE": "Beliebt",
+        "wordEN": "popular",
+        "type": "Adjective",
+        "sentence": "Weißt du, dass du beliebt bist?"
+    },
+    {
+        "wordDE": "Benötigen",
+        "wordEN": "To need",
+        "type": "Verb",
+        "sentence": "Benötige ich dich, Kumpel!"
+    },
+    {
+        "wordDE": "Bereits",
+        "wordEN": "already",
+        "type": "Adverb",
+        "sentence": "Ich bin bereits hier, wo bist du?"
+    },
+    {
+        "wordDE": "Bereit",
+        "wordEN": "Ready",
+        "type": "Adjective",
+        "sentence": "Bist du bereit zu gehen?"
+    },
+    {
+        "wordDE": "Die Besserung",
+        "wordEN": "The improvement",
+        "type": "Noun",
+        "sentence": "Gute Besserung!"
+    },
+    {
+        "wordDE": "Das Bett, -en",
+        "wordEN": "The bed",
+        "type": "Noun",
+        "sentence": "Ich bin müde, also gehe ich jetzt ins Bett"
+    },
+    {
+        "wordDE": "Das Bild, -er",
+        "wordEN": "The picture",
+        "type": "Noun",
+        "sentence": "Das Bild sieht sehr geil aus!"
+    },
+    {
+        "wordDE": "Die Biologie",
+        "wordEN": "The biology",
+        "type": "Noun",
+        "sentence": "Ich studiere Biologie."
+    },
+    {
+        "wordDE": "Der Blick, -e",
+        "wordEN": "'The view' or 'the look' or 'the glance'",
+        "type": "Noun",
+        "sentence": "Der Blick sieht erstaunlich aus"
+    },
+    {
+        "wordDE": "Die Briefmarke, -n",
+        "wordEN": "The stamp",
+        "type": "Noun",
+        "sentence": "Der Brief hat eine Briefmarke."
+    },
+    {
+        "wordDE": "Der Brief, -e",
+        "wordEN": "The letter",
+        "type": "Noun",
+        "sentence": "Braucht der Brief zwei Briefmarken?"
+    },
+    {
+        "wordDE": "Dafür",
+        "wordEN": "For this / for that",
+        "type": "Adverb",
+        "sentence": "Böses Foul! Dafür gibt es die rote Karte"
+    },
+    {
+        "wordDE": "Diskutieren",
+        "wordEN": "To discuss",
+        "type": "Verb",
+        "sentence": "Wir mussen die Änderungen diskutieren"
+    },
+    {
+        "wordDE": "Draußen",
+        "wordEN": "outside",
+        "type": "noun",
+        "sentence": "Draußen ist es doch kalt!"
+    },
+    {
+        "wordDE": "Durcheinander",
+        "wordEN": "confused",
+        "type": "adjective",
+        "sentence": "Ich verstehe dich nicht. Ich bin ein bisschen durcheinander."
+    },
+    {
+        "wordDE": "Durstig",
+        "wordEN": "thirsty",
+        "type": "adjective",
+        "sentence": "Hast du Wasser? Ich bin wirklich durstig!"
+    },
+    {
+        "wordDE": "Einbrechen",
+        "wordEN": "To break in, to burglarize",
+        "type": "Verb",
+        "sentence": "Jemand ist in unsere Wohnung eingebrochen!"
+    },
+    {
+        "wordDE": "Die Ehe, -n",
+        "wordEN": "The marriage",
+        "type": "Noun",
+        "sentence": "Unsere Ehe geht noch gut!"
+    },
+    {
+        "wordDE": "Ehrlich",
+        "wordEN": "Honestly",
+        "type": "Adjective",
+        "sentence": "Ehrlich habe ich hier nicht so viel Spaß"
+    },
+    {
+        "wordDE": "Einfach",
+        "wordEN": "Simple/simply, just",
+        "type": "Adjective",
+        "sentence": "Der Test war sehr einfach. Ich bin einfach zu alt!"
+    },
+    {
+        "wordDE": "Einpacken",
+        "wordEN": "To pack, to wrap up",
+        "type": "Verb",
+        "sentence": "Pack deine Flasche ein, bitte!"
+    },
+    {
+        "wordDE": "Die Einsamkeit",
+        "wordEN": "The loneliness",
+        "type": "Noun",
+        "sentence": "Einsamkeit ist kein Witz"
+    },
+    {
+        "wordDE": "Einladen",
+        "wordEN": "To invite",
+        "type": "Verb",
+        "sentence": "Wir sollten die Jungs einladen!"
+    },
+    {
+        "wordDE": "Entlassen",
+        "wordEN": "To dismiss",
+        "type": "Verb",
+        "sentence": "Entlass mich nicht!"
+    },
+    {
+        "wordDE": "Die Entlassung, -en",
+        "wordEN": "The dismissal",
+        "type": "Noun",
+        "sentence": "Die Entlassung von die Firma war eine Überraschung"
+    },
+    {
+        "wordDE": "Die Entscheidung, -en",
+        "wordEN": "The decision",
+        "type": "Noun",
+        "sentence": "Diese Entscheidung war sehr schwer zu machen"
+    },
+    {
+        "wordDE": "Der Erfolg, -e",
+        "wordEN": "The success",
+        "type": "Noun",
+        "sentence": "Der Erfolg meines Sohnes freut mich"
+    },
+    {
+        "wordDE": "Entwickeln",
+        "wordEN": "To develop",
+        "type": "Verb",
+        "sentence": "Ich entwickle die Internet!"
+    },
+    {
+        "wordDE": "Erhalten",
+        "wordEN": "To receive",
+        "type": "Verb",
+        "sentence": "Ich liebe es, leckeres Essen zu erhalten"
+    },
+    {
+        "wordDE": "Erleben",
+        "wordEN": "To experience",
+        "type": "Verb",
+        "sentence": "Wir sollten unseres bestes Leben erleben"
+    },
+    {
+        "wordDE": "Die Fabrik, -en",
+        "wordEN": "The factory",
+        "type": "Noun",
+        "sentence": "Ich arbeite in einer Fabrik"
+    },
+    {
+        "wordDE": "Die Farbe, -n",
+        "wordEN": "The color",
+        "type": "Noun",
+        "sentence": "Regenbögen haben viele verschiedene Farben"
+    },
+    {
+        "wordDE": "Fotografieren",
+        "wordEN": "To photograph",
+        "type": "Verb",
+        "sentence": "Kann ich dich fotografieren?"
+    },
+    {
+        "wordDE": "Die Freizeit",
+        "wordEN": "The freetime",
+        "type": "Noun",
+        "sentence": "Wir wollen mehr Freizeit"
+    },
+    {
+        "wordDE": "Sich fühlen",
+        "wordEN": "To feel (emotionally)",
+        "type": "Verb",
+        "sentence": "Heute fühle ich mich sehr gut!"
+    },
+    {
+        "wordDE": "Fühlen",
+        "wordEN": "To feel (physically)",
+        "type": "Verb",
+        "sentence": "Ich fühle das Wasser und es ist nass!"
+    },
+    {
+        "wordDE": "Das Gebirge",
+        "wordEN": "The mountains",
+        "type": "Noun",
+        "sentence": "Das Gebirge ist echt groß!"
+    },
+    {
+        "wordDE": "Das Gesicht",
+        "wordEN": "The face",
+        "type": "Noun",
+        "sentence": "Seines Gesicht sieht sehr unheimlich an"
+    },
+    {
+        "wordDE": "Unheimlich",
+        "wordEN": "Scary, eerie",
+        "type": "Adjective",
+        "sentence": "Das alte Haus ist doch unheimlich"
+    },
+    {
+        "wordDE": "Das Geschirr",
+        "wordEN": "The dishes",
+        "type": "Noun",
+        "sentence": "Das Geschirr ist nicht sauber"
+    },
+    {
+        "wordDE": "Geschieden",
+        "wordEN": "divorced",
+        "type": "Adjective",
+        "sentence": "Ich bin jetzt leider geschieden"
+    },
+    {
+        "wordDE": "Der Geschmack",
+        "wordEN": "The taste",
+        "type": "Noun",
+        "sentence": "Dieser Geschmack ist echt seltsam... bleh!"
+    },
+    {
+        "wordDE": "Das Gesetz, -e",
+        "wordEN": "The law",
+        "type": "Noun",
+        "sentence": "Ich hasse dieses neue Gesetz!"
+    },
+    {
+        "wordDE": "das Gleis, -e",
+        "wordEN": "The track",
+        "type": "Noun",
+        "sentence": "Dieses Gleis ist gerade"
+    },
+    {
+        "wordDE": "Die Grafik, -en",
+        "wordEN": "The graphic",
+        "type": "Noun",
+        "sentence": "Diese Grafiken sehen super cool aus!"
+    },
+    {
+        "wordDE": "Grillen",
+        "wordEN": "To grill",
+        "type": "Verb",
+        "sentence": "Heute chillen und grillen wir!"
+    },
+    {
+        "wordDE": "Die Größe, die Größen",
+        "wordEN": "The size",
+        "type": "Noun",
+        "sentence": "Diese Größe ist perfekt!"
+    },
+    {
+        "wordDE": "Die Grippe",
+        "wordEN": "The flu",
+        "type": "Noun",
+        "sentence": "Ich kann nicht mitkommen, weil ich die Grippe habe"
+    },
+    {
+        "wordDE": "Das Haar, -e",
+        "wordEN": "The hair",
+        "type": "Noun",
+        "sentence": "Hast du blonde oder braune Haare?"
+    },
+    {
+        "wordDE": "Der Grund, die Gründe",
+        "wordEN": "The reason",
+        "type": "Noun",
+        "sentence": "Warum hast du das gemacht? eh, kein Grund"
+    },
+    {
+        "wordDE": "Das Handy, -s",
+        "wordEN": "The cellphone",
+        "type": "Noun",
+        "sentence": "Mein Handy hat keinen Empfang"
+    },
+    {
+        "wordDE": "Die Heizung, -en",
+        "wordEN": "The heater",
+        "type": "Noun",
+        "sentence": "Ist die Heizung kaputt?"
+    },
+    {
+        "wordDE": "Die Hitze",
+        "wordEN": "The heat",
+        "type": "Noun",
+        "sentence": "Die Hitze ist zu viel"
+    },
+    {
+        "wordDE": "Das Hobby, -s",
+        "wordEN": "The hobby",
+        "type": "Noun",
+        "sentence": "Dieses Hobby macht Spaß!"
+    },
+    {
+        "wordDE": "Das Holz",
+        "wordEN": "The wood",
+        "type": "Noun",
+        "sentence": "Diese Tisch ist aus Holz"
+    },
+    {
+        "wordDE": "Der Honig",
+        "wordEN": "The honey",
+        "type": "Noun",
+        "sentence": "Kann ich eine Tasse Tee haben? und vergiss den Honig nicht!"
+    },
+    {
+        "wordDE": "Immer",
+        "wordEN": "always",
+        "type": "adverb",
+        "sentence": "Ich bin immer hier für dich!"
+    },
+    {
+        "wordDE": "Die Industrie, -n",
+        "wordEN": "The industry",
+        "type": "Noun",
+        "sentence": "Kürzlich macht die Industrie zu"
+    },
+    {
+        "wordDE": "Kämpfen",
+        "wordEN": "To fight",
+        "type": "Verb",
+        "sentence": "Geh weg! Ich will nicht kämpfen!"
+    },
+    {
+        "wordDE": "Die Kette, -n",
+        "wordEN": "The chain",
+        "type": "Noun",
+        "sentence": "Die Ketten sind echt stark!"
+    },
+    {
+        "wordDE": "Schlagen",
+        "wordEN": "To hit",
+        "type": "Verb",
+        "sentence": "Schatz, bitte, bitte, bitte schlag mich nicht!"
+    },
+    {
+        "wordDE": "Die Kneipe, -n",
+        "wordEN": "The bar",
+        "type": "Noun",
+        "sentence": "Bring nie wieder deine neuen Freunde in meine Kneipe!"
+    },
+    {
+        "wordDE": "Der Knochen, -",
+        "wordEN": "The bones",
+        "type": "Noun",
+        "sentence": "Die Knochen sind weiß"
+    },
+    {
+        "wordDE": "Der Kontakt, -e",
+        "wordEN": "The contact",
+        "type": "Noun",
+        "sentence": "Dieser Kontakt ist mein Lieblingskontakt"
+    },
+    {
+        "wordDE": "Der König, -e",
+        "wordEN": "The king",
+        "type": "Noun",
+        "sentence": "In diesem Land haben wir einen König und eine Königin"
+    },
+    {
+        "wordDE": "Krank",
+        "wordEN": "Sick",
+        "type": "Adjective",
+        "sentence": "Heute fühle ich mich sehr krank!"
+    },
+    {
+        "wordDE": "Der Kugelschreiber, -",
+        "wordEN": "The ball-point pen",
+        "type": "Noun",
+        "sentence": "Ich brauche einen neuen Kugelschreiber"
+    },
+    {
+        "wordDE": "Die Kultur, -en",
+        "wordEN": "The culture",
+        "type": "Noun",
+        "sentence": "Die Kultur dieses Landes ist richtig interessant!"
+    },
+    {
+        "wordDE": "Die Lage, -",
+        "wordEN": "The location",
+        "type": "Noun",
+        "sentence": "Die Lage ist unbekannt"
+    },
+    {
+        "wordDE": "Laufen",
+        "wordEN": "To run",
+        "type": "Verb",
+        "sentence": "Ich laufe gerne draußen, wenn es heiß ist"
+    },
+    {
+        "wordDE": "Langweilig",
+        "wordEN": "Boring",
+        "type": "Adjective",
+        "sentence": "Ich gehe gleich, weil es hier so langweilig ist"
+    },
+    {
+        "wordDE": "Der Lärm",
+        "wordEN": "The noise",
+        "type": "Noun",
+        "sentence": "Dieser Lärm ist zu laut!"
+    },
+    {
+        "wordDE": "Leer",
+        "wordEN": "empty",
+        "type": "Adjective",
+        "sentence": "Warum hast du das gemacht?! Ist dein Kopf leer?"
+    },
+    {
+        "wordDE": "Die Lösung, -en",
+        "wordEN": "The solution",
+        "type": "Noun",
+        "sentence": "Such die Lösung für Probleme"
+    },
+    {
+        "wordDE": "Die Mahnung, -en",
+        "wordEN": "The warning",
+        "type": "Noun",
+        "sentence": "Die Regierung sprach eine Mahnung an die Demonstranten aus."
+    },
+    {
+        "wordDE": "Klettern",
+        "wordEN": "To climb",
+        "type": "Verb",
+        "sentence": "Klettere die Leiter hoch"
+    },
+    {
+        "wordDE": "Das Material, -ien",
+        "wordEN": "The material",
+        "type": "Noun",
+        "sentence": "Das Material ist doch teuer!"
+    },
+    {
+        "wordDE": "Die Mauer, -n",
+        "wordEN": "The wall",
+        "type": "Noun",
+        "sentence": "Ich habe die Mauer schon geklettert"
+    },
+    {
+        "wordDE": "Die Mehrheit",
+        "wordEN": "The majority",
+        "type": "Noun",
+        "sentence": "Ist die Mehrheit falsch?"
+    },
+    {
+        "wordDE": "Das Mineralwasser",
+        "wordEN": "The mineral water",
+        "type": "Noun",
+        "sentence": "Das Mineralwasser schmeckt salzig"
+    },
+    {
+        "wordDE": "Merkwürdig",
+        "wordEN": "Strange, odd",
+        "type": "Adjective",
+        "sentence": "Diese Kinder sind merkwüdig"
+    },
+    {
+        "wordDE": "Der Moment, -e",
+        "wordEN": "The moment",
+        "type": "Noun",
+        "sentence": "Sollten wir im Moment leben?"
+    },
+    {
+        "wordDE": "Der Müll",
+        "wordEN": "The garbage",
+        "type": "Noun",
+        "sentence": "Der Müll riecht! Bring ihn schon raus!"
+    },
+    {
+        "wordDE": "Die Münze, -n",
+        "wordEN": "The coins",
+        "type": "Noun",
+        "sentence": "Ich sammele alte Münzen"
+    },
+    {
+        "wordDE": "Das Netzwerk, -e",
+        "wordEN": "The network",
+        "type": "Noun",
+        "sentence": "Es gibt keine Verbindung mit diesem Netzwerk."
+    },
+    {
+        "wordDE": "Natürlich",
+        "wordEN": "Naturally, of course!",
+        "type": "Adverb",
+        "sentence": "Natürlich will ich nach Hause fahren, weil es so spät ist"
+    },
+    {
+        "wordDE": "Die Nachricht, -en",
+        "wordEN": "The news, the message",
+        "type": "Noun",
+        "sentence": "Hast du heute die Nachrichten gelesen?"
+    },
+    {
+        "wordDE": "Die Nummer, -n",
+        "wordEN": "The number",
+        "type": "Noun",
+        "sentence": "funf + funf ist die Nummer zehn"
+    },
+    {
+        "wordDE": "Nützen",
+        "wordEN": "To use",
+        "type": "Verb",
+        "sentence": "Hast du mein Handy benutzt?"
+    },
+    {
+        "wordDE": "Ohne",
+        "wordEN": "without",
+        "type": "Conjunction,",
+        "sentence": "Ich will den Salat ohne Tomaten, bitte"
+    },
+    {
+        "wordDE": "Das Papier, -e",
+        "wordEN": "The paper",
+        "type": "Noun",
+        "sentence": "Sei vorsichtig. Wir brauchen mehr Toilettenpapier"
+    },
+    {
+        "wordDE": "Passieren",
+        "wordEN": "To happen",
+        "type": "Verb",
+        "sentence": "Was ist los? Ist etwas Schlechtes passiert?"
+    },
+    {
+        "wordDE": "Der Pfeffer",
+        "wordEN": "The pepper",
+        "type": "Noun",
+        "sentence": "Pfeffer und Salz sind beide lecker"
+    },
+    {
+        "wordDE": "Das Plastik",
+        "wordEN": "The plastic",
+        "type": "Noun",
+        "sentence": "Das Plastik im Ozean ist schädlich"
+    },
+    {
+        "wordDE": "Die Praxis",
+        "wordEN": "The practice",
+        "type": "Noun",
+        "sentence": "Das ist die Theorie. In der Praxis ist vieles ganz anders."
+    },
+    {
+        "wordDE": "Der Rabatt, -e",
+        "wordEN": "The rebate",
+        "type": "Noun",
+        "sentence": "Wir kriegen vierzehn Prozent Rebatt"
+    },
+    {
+        "wordDE": "Das Radio, -s",
+        "wordEN": "The radio",
+        "type": "Noun",
+        "sentence": "Mach das Radio lauter, bitte"
+    },
+    {
+        "wordDE": "Der Rand, die Ränder",
+        "wordEN": "The edge",
+        "type": "Noun",
+        "sentence": "Wir wohnen am Rand der Innenstadt"
+    },
+    {
+        "wordDE": "Rechtzeitig",
+        "wordEN": "In time, on time",
+        "type": "adverb",
+        "sentence": "Bitte weck mich rechzeitig. Ich muss pünktlich sein."
+    },
+    {
+        "wordDE": "Regelmäßig",
+        "wordEN": "regularly",
+        "type": "adverb",
+        "sentence": "Ich trainiere regelmäßig"
+    },
+    {
+        "wordDE": "Der Rest, -e",
+        "wordEN": "The rest",
+        "type": "Noun",
+        "sentence": "Der Rest kostet $10"
+    },
+    {
+        "wordDE": "Die Richtung, -en",
+        "wordEN": "The direction",
+        "type": "Noun",
+        "sentence": "Haben wir die richtige Richtung?"
+    },
+    {
+        "wordDE": "Die Runde, -n",
+        "wordEN": "The round",
+        "type": "Noun",
+        "sentence": "Ich laufe jeden Tag fünf Runden im Park"
+    },
+    {
+        "wordDE": "Die Rundfahrt, -en",
+        "wordEN": "The tour",
+        "type": "Noun",
+        "sentence": "Die Rundfahrten beginnen um 9 Uhr"
+    },
+    {
+        "wordDE": "Die Sache, -n",
+        "wordEN": "The thing",
+        "type": "Noun",
+        "sentence": "Ich habe zum Geburtstag viele Sachen bekommen"
+    },
+    {
+        "wordDE": "Der Salat, -e",
+        "wordEN": "The salad",
+        "type": "Noun",
+        "sentence": "Essen wir später Salat oder Schinken?"
+    },
+    {
+        "wordDE": "Der Satz, die Sätze",
+        "wordEN": "The 'sentence'",
+        "type": "Noun",
+        "sentence": "Ich habe diesen Sätze gar nicht verstanden"
+    },
+    {
+        "wordDE": "Der Schild, -e",
+        "wordEN": "The shield",
+        "type": "Noun",
+        "sentence": "IcH sPiEle FoRtNiTe UnD iCh BrAuChE sChIlDe"
+    },
+    {
+        "wordDE": "Schmal",
+        "wordEN": "Narrow",
+        "type": "Adjective",
+        "sentence": "Diese Straße ist zu schmal. Ich kann hier nicht parken."
+    },
+    {
+        "wordDE": "Die Schokolade",
+        "wordEN": "The chocolate",
+        "type": "Noun",
+        "sentence": "Ich esse gern Schokolade... Wie lecker!"
+    },
+    {
+        "wordDE": "Schön",
+        "wordEN": "Beautiful",
+        "type": "Adjective",
+        "sentence": "Ich sehe dich und ich muss sagen, dass du schön bist!"
+    },
+    {
+        "wordDE": "Der Schlüssel, -",
+        "wordEN": "The key",
+        "type": "Noun",
+        "sentence": "Hast du den Schlüssel zur Tür?"
+    },
+    {
+        "wordDE": "Schützen",
+        "wordEN": "To protect",
+        "type": "Verb",
+        "sentence": "Komm schon mit! Ich schütze dich"
+    },
+    {
+        "wordDE": "Aufschreiben",
+        "wordEN": "To write down",
+        "type": "Verb",
+        "sentence": "Bist du bereit, meine Gedanken aufzuschreiben?"
+    },
+    {
+        "wordDE": "Die Seife, -n",
+        "wordEN": "The soap",
+        "type": "Noun",
+        "sentence": "Die Seife riecht sehr sehr gut!"
+    },
+    {
+        "wordDE": "Die Seite, -n",
+        "wordEN": "'The page' or 'the side'",
+        "type": "Noun",
+        "sentence": "Ich mache für dich eine Webseite"
+    },
+    {
+        "wordDE": "Selbstständig",
+        "wordEN": "Independently",
+        "type": "Adverb",
+        "sentence": "Ich kann selbstständig arbeiten"
+    },
+    {
+        "wordDE": "Offensichtlich",
+        "wordEN": "Obviously",
+        "type": "Adverb",
+        "sentence": "Der Krieg ist offensichtlich nicht gut"
+    },
+    {
+        "wordDE": "Der Wahnsinn",
+        "wordEN": "The madness",
+        "type": "Noun",
+        "sentence": "Es ist Wahnsinn, wie gut er Fußball spielen kann!"
+    },
+    {
+        "wordDE": "Sofort",
+        "wordEN": "Immediately",
+        "type": "Adverb",
+        "sentence": "Komm rein sofort!"
+    },
+    {
+        "wordDE": "Spüren",
+        "wordEN": "To feel",
+        "type": "Verb",
+        "sentence": "Und dann spürte ich eine eiskalte Hand auf meiner rechten Schulter."
+    },
+    {
+        "wordDE": "Das Spielzeug",
+        "wordEN": "The toy",
+        "type": "Noun",
+        "sentence": "Hast du das neue Spielzeug gekauft? Ich will es auch!"
+    },
+    {
+        "wordDE": "Die Sprache, -n",
+        "wordEN": "The language",
+        "type": "Noun",
+        "sentence": "Wir lernen zusammen die deutsche Sprache"
+    },
+    {
+        "wordDE": "Die Station, -en",
+        "wordEN": "The station",
+        "type": "Noun",
+        "sentence": "Morgen fahren wir zur Station"
+    },
+    {
+        "wordDE": "Die Statistik, -en",
+        "wordEN": "The statistic",
+        "type": "Noun",
+        "sentence": "Die Statistiken sind zu schwer zu verstehen"
+    },
+    {
+        "wordDE": "Der Stern, -e",
+        "wordEN": "The star",
+        "type": "Noun",
+        "sentence": "Deine Augen sind wie Sterne"
+    },
+    {
+        "wordDE": "Die Stimme, -n",
+        "wordEN": "The voice",
+        "type": "Noun",
+        "sentence": "Ich erkenne deine Stimme!"
+    },
+    {
+        "wordDE": "Die Stimmung. -en",
+        "wordEN": "The mood",
+        "type": "Noun",
+        "sentence": "Die Stimmung auf der Party war großatig"
+    },
+    {
+        "wordDE": "Der Stress",
+        "wordEN": "The stress",
+        "type": "Noun",
+        "sentence": "Während eines Tests steht man oft unter großem Stress."
+    },
+    {
+        "wordDE": "Der Stoff, -e",
+        "wordEN": "The fabric",
+        "type": "Noun",
+        "sentence": "Der Stoff ist rot und schawrz"
+    },
+    {
+        "wordDE": "Trocken",
+        "wordEN": "dry",
+        "type": "Adjective",
+        "sentence": "Die Wäsche ist noch nicht trocken, sondern nass"
+    },
+    {
+        "wordDE": "Trotzdem",
+        "wordEN": "Nevertheless, nonetheless",
+        "type": "Adverb",
+        "sentence": "Ich bin müde aber trotzdem muss ich laufen gehen"
+    },
+    {
+        "wordDE": "Die Tür, -en",
+        "wordEN": "The door",
+        "type": "Noun",
+        "sentence": "Mach die Tür zu, bitte"
+    },
+    {
+        "wordDE": "Die Umleitung, -en",
+        "wordEN": "The diversion",
+        "type": "Noun",
+        "sentence": "Die Umleitung klappt leider nicht"
+    },
+    {
+        "wordDE": "Die Umwelt",
+        "wordEN": "The environment",
+        "type": "Noun",
+        "sentence": "Autos sind ein Problem für unsere Umwelt"
+    },
+    {
+        "wordDE": "Ungewöhnlich",
+        "wordEN": "Unusual",
+        "type": "Adjective",
+        "sentence": "Sie hat Freunde? Wie ungewöhnlich!"
+    },
+    {
+        "wordDE": "Unheimlich",
+        "wordEN": "Scary, creepy",
+        "type": "Adjective",
+        "sentence": "Warum hast du das gesagt? Meine Mutter ist nicht unheimlich!"
+    },
+    {
+        "wordDE": "Das Vergnügen",
+        "wordEN": "The pleasesure",
+        "type": "Noun",
+        "sentence": "Es ist ein Vergnügen, Zeit mit dir zu verbringen"
+    },
+    {
+        "wordDE": "Verhaften",
+        "wordEN": "To arrest",
+        "type": "Verb",
+        "sentence": "Die Polizei hat sechs Männer verhaftet"
+    },
+    {
+        "wordDE": "Verbrauchen",
+        "wordEN": "To consume",
+        "type": "Verb",
+        "sentence": "Verbrauch meine Seele nicht!"
+    },
+    {
+        "wordDE": "Der Verdacht",
+        "wordEN": "The suspicion",
+        "type": "Noun",
+        "sentence": "Wer hat das Geld genommen? Ich bin nicht sicher... aber ich habe einen Verdacht"
+    },
+    {
+        "wordDE": "Vergessen",
+        "wordEN": "To forget",
+        "type": "Verb",
+        "sentence": "Vergiss mich nicht! -Ich würde nie!"
+    },
+    {
+        "wordDE": "Sich verlaufen",
+        "wordEN": "To be lost",
+        "type": "Verb",
+        "sentence": "Wo sind wir? -Ich weiß es nicht, wir haben uns verlaufen!"
+    },
+    {
+        "wordDE": "Sich verlieben",
+        "wordEN": "To fall in love",
+        "type": "Verb",
+        "sentence": "Ich habe mich in sie verliebt"
+    },
+    {
+        "wordDE": "Verschreiben",
+        "wordEN": "To prescribe",
+        "type": "Verb",
+        "sentence": "Sie verschreibt mir neue Drogen"
+    },
+    {
+        "wordDE": "Vermissen",
+        "wordEN": "To miss",
+        "type": "Verb",
+        "sentence": "Ich vermisse meine Familie"
+    },
+    {
+        "wordDE": "Versichern",
+        "wordEN": "'To insure'",
+        "type": "Verb",
+        "sentence": "Mein Auto ist versichert."
+    },
+    {
+        "wordDE": "Versprechen",
+        "wordEN": "To promise",
+        "type": "Verb",
+        "sentence": "Ich habe ihr versprochen, ich werde nicht nach Berlin fliegen"
+    },
+    {
+        "wordDE": "Verpacken",
+        "wordEN": "To pack",
+        "type": "Verb",
+        "sentence": "Hast du den Rest verpackt?"
+    },
+    {
+        "wordDE": "Verwenden",
+        "wordEN": "To use",
+        "type": "Verb",
+        "sentence": "Hast du meinen Computer verwendet?"
+    },
+    {
+        "wordDE": "Versuchen",
+        "wordEN": "To attempt, to try",
+        "type": "Verb",
+        "sentence": "Versuch das nicht! Es ist zu gefährlich!"
+    },
+    {
+        "wordDE": "Der Versuch, -e",
+        "wordEN": "The attempt, the try",
+        "type": "Noun",
+        "sentence": "Ich habe viele Versuche gemacht, aber jeder war schlimm"
+    },
+    {
+        "wordDE": "Völlig",
+        "wordEN": "completely, fully",
+        "type": "Adjective",
+        "sentence": "Ist er völlig verrückt? -Ja. Das glaube ich."
+    },
+    {
+        "wordDE": "Wach",
+        "wordEN": "Awake",
+        "type": "Adjective",
+        "sentence": "Ich denke, sie sind noch wach."
+    },
+    {
+        "wordDE": "Wahr",
+        "wordEN": "true",
+        "type": "Adjective",
+        "sentence": "Ist die Geschichte wahr?"
+    },
+    {
+        "wordDE": "Der Wald, die Wälder",
+        "wordEN": "The forest",
+        "type": "Noun",
+        "sentence": "Wir haben uns im Wald verlaufen"
+    },
+    {
+        "wordDE": "Wahrscheinlich",
+        "wordEN": "probably",
+        "type": "Adverb",
+        "sentence": "Wahrscheinlich fahren wir morgen nach Köln"
+    },
+    {
+        "wordDE": "Wandern",
+        "wordEN": "To hike",
+        "type": "Verb",
+        "sentence": "Morgen wandern wir im Wald"
+    },
+    {
+        "wordDE": "Gegen",
+        "wordEN": "against",
+        "type": "Preposition",
+        "sentence": "Der Kampf ist drei gegen ein"
+    },
+    {
+        "wordDE": "Weiblich",
+        "wordEN": "female",
+        "type": "Adjective",
+        "sentence": "Das ist ein weiblicher Vogel"
+    },
+    {
+        "wordDE": "Die Werbung, -en",
+        "wordEN": "The advertising",
+        "type": "Noun",
+        "sentence": "Kann ich die Werbungen überspringen?"
+    },
+    {
+        "wordDE": "Die Welt",
+        "wordEN": "The world",
+        "type": "Noun",
+        "sentence": "Ist GermanWordADay.info die beste Webseite der Welt? Vielleicht!"
+    },
+    {
+        "wordDE": "Das Wetter",
+        "wordEN": "The weather",
+        "type": "Noun",
+        "sentence": "Das Wetter ist heute richtig schlimm"
+    },
+    {
+        "wordDE": "Wichtig",
+        "wordEN": "Important",
+        "type": "Adjective",
+        "sentence": "Der Test ist morgen und super wichtig!"
+    },
+    {
+        "wordDE": "Die Wolke, -n",
+        "wordEN": "The cloud",
+        "type": "Noun",
+        "sentence": "Es gibt viele Wolken am Himmel"
+    },
+    {
+        "wordDE": "Bewölkt",
+        "wordEN": "Cloudy",
+        "type": "Adjective",
+        "sentence": "Der Himmel ist heute sehr bewölkt"
+    },
+    {
+        "wordDE": "Die Zeit",
+        "wordEN": "The time",
+        "type": "Noun",
+        "sentence": "Alles ist perfekt in der Zeit"
+    },
+    {
+        "wordDE": "Die Zigarette, -n",
+        "wordEN": "The cigarette",
+        "type": "Noun",
+        "sentence": "Rauchst du Zigaretten?"
+    },
+    {
+        "wordDE": "Die Zone, -n",
+        "wordEN": "The zone",
+        "type": "Noun",
+        "sentence": "Diese Zone ist eine Spielzone"
+    },
+    {
+        "wordDE": "Die Veranstaltung, -en",
+        "wordEN": "The organization, the event",
+        "type": "Noun",
+        "sentence": "Die Veranstaltung findet jeden Tag um 8 Uhr statt."
+    },
+    {
+        "wordDE": "Riesig",
+        "wordEN": "enormous",
+        "type": "Adjective",
+        "sentence": "Dieser Mann ist riesig!"
+    },
+    {
+        "wordDE": "Das Schloss, die Schlösser",
+        "wordEN": "The castle, the lock",
+        "type": "Noun",
+        "sentence": "Dieses Schloss ist so alt wie du!"
+    },
+    {
+        "wordDE": "Der Konflikt",
+        "wordEN": "The conflict",
+        "type": "Noun",
+        "sentence": "Warum gibt es hier einen Konflikt?"
+    },
+    {
+        "wordDE": "Pflegen",
+        "wordEN": "To look after, to nurse",
+        "type": "Verb",
+        "sentence": "Muss ich wirklich das Baby pflegen?"
+    },
+    {
+        "wordDE": "Still",
+        "wordEN": "calm",
+        "type": "Adjective",
+        "sentence": "Ich liebe es hier! Hier ist immer ruhig und still"
+    },
+    {
+        "wordDE": "Das Dach, die Dächer",
+        "wordEN": "The roof",
+        "type": "Noun",
+        "sentence": "Wir rauchen auf dem Dach, also kann meine Mutter uns nicht finden"
+    },
+    {
+        "wordDE": "Besetzen",
+        "wordEN": "To occupy",
+        "type": "Verb",
+        "sentence": "Jetzt besetzen wir eine neue Wohnung"
+    },
+    {
+        "wordDE": "Die Änderung, -en",
+        "wordEN": "The change",
+        "type": "Noun",
+        "sentence": "Ich mag die Änderungen gar nicht!"
+    },
+    {
+        "wordDE": "Die Gewalt",
+        "wordEN": "The violence",
+        "type": "Noun",
+        "sentence": "Gewalt ist nie die Antwort... vielleicht manchmal..."
+    },
+    {
+        "wordDE": "Der Laden, die Läden",
+        "wordEN": "The shop",
+        "type": "Noun",
+        "sentence": "Was willst du vom Laden?"
+    },
+    {
+        "wordDE": "Dicht",
+        "wordEN": "dense",
+        "type": "Adjective",
+        "sentence": "Wasser ist richtig dicht"
+    },
+    {
+        "wordDE": "Die Stellung, -en",
+        "wordEN": "The position",
+        "type": "Noun",
+        "sentence": "Ist die Stellung immer noch verfügbar?"
+    },
+    {
+        "wordDE": "Der Zugang",
+        "wordEN": "The access",
+        "type": "Noun",
+        "sentence": "Habt ihr Zugang oder ist es hier verboten?"
+    },
+    {
+        "wordDE": "Aufstellen",
+        "wordEN": "To deploy",
+        "type": "Verb",
+        "sentence": "Morgen stellen wir eine neue Webseite auf"
+    },
+    {
+        "wordDE": "Nett",
+        "wordEN": "nice",
+        "type": "Adjective",
+        "sentence": "Bist du nett oder böse?"
+    },
+    {
+        "wordDE": "Der Vorgang, -en",
+        "wordEN": "The process",
+        "type": "Noun",
+        "sentence": "Dieser Vorgang ist so langweilig und langsam"
+    },
+    {
+        "wordDE": "Die Darstellung, -en",
+        "wordEN": "The depiction",
+        "type": "Noun",
+        "sentence": "Diese Darstellung meiner Mutter ist nicht mehr richtig"
+    },
+    {
+        "wordDE": "Eintreten",
+        "wordEN": "To enter",
+        "type": "Verb",
+        "sentence": "Kann ich schon eintreten, order muss ich noch etwas warten?"
+    },
+    {
+        "wordDE": "Bestellen",
+        "wordEN": "To order",
+        "type": "Verb",
+        "sentence": "Bald bestelle ich noch ein Bier"
+    },
+    {
+        "wordDE": "Die Spitze",
+        "wordEN": "The tip, peak, top",
+        "type": "Noun",
+        "sentence": "Ich hoffe, wir können die Spitze des Hügels erreichen!"
+    },
+    {
+        "wordDE": "Das Blut",
+        "wordEN": "The blood",
+        "type": "Noun",
+        "sentence": "'Es tut so weh!' -'Ich denke, es ist okay! Ich sehe kein Blut'"
+    },
+    {
+        "wordDE": "Halten",
+        "wordEN": "To keep",
+        "type": "Verb",
+        "sentence": "Ich bin so müde. Halt mich wach bitte"
+    },
+    {
+        "wordDE": "Egal",
+        "wordEN": "Indifferent, doesn\"t matter",
+        "type": "Adjective",
+        "sentence": "'Willst du X oder Y?' 'Eh... ist mir wirklich egal'"
+    },
+    {
+        "wordDE": "Zurückgehen",
+        "wordEN": "To go back",
+        "type": "Verb",
+        "sentence": "Sollten wir fortzetzen oder zurückgehen?"
+    },
+    {
+        "wordDE": "Die Geschwindigkeit, -en",
+        "wordEN": "The speed",
+        "type": "Noun",
+        "sentence": "Die Geschwindigkeitsbegrenzung ist 55/mph"
+    },
+    {
+        "wordDE": "Stolz",
+        "wordEN": "proud",
+        "type": "Adjective",
+        "sentence": "Du hast es gemacht! Ich bin so stolz auf dich!"
+    },
+    {
+        "wordDE": "Unbekannt",
+        "wordEN": "unknown",
+        "type": "Adjective",
+        "sentence": "Weißt du wo wir sind? -Nein... dieser Ort ist mir unbekannt"
+    },
+    {
+        "wordDE": "Die Anleitung, -en",
+        "wordEN": "The instruction",
+        "type": "Noun",
+        "sentence": "Diese Anleitungen sind gar nicht klar!"
+    },
+    {
+        "wordDE": "Hören",
+        "wordEN": "To hear",
+        "type": "Verb",
+        "sentence": "Hallo? Bist du da? Hörst du mich?"
+    },
+    {
+        "wordDE": "Realisieren",
+        "wordEN": "to realize",
+        "type": "Verb",
+        "sentence": "Hast du schon mal realisiert, dass sie dich mag?"
+    },
+    {
+        "wordDE": "Retten",
+        "wordEN": "To rescue, to save",
+        "type": "Verb",
+        "sentence": "Der Hund war verloren, also habe ich ihn gefunden und gerettet"
+    },
+    {
+        "wordDE": "Sobald",
+        "wordEN": "as soon as",
+        "type": "Conjunction",
+        "sentence": "Wir fahren, sobald ich bereit bin"
+    },
+    {
+        "wordDE": "Brennen",
+        "wordEN": "To burn",
+        "type": "Verb",
+        "sentence": "Wenn Holz zu heiß wird, beginnt es zu brennen"
+    },
+    {
+        "wordDE": "Die Auswirkung, -en",
+        "wordEN": "The effect, the impact",
+        "type": "Noun",
+        "sentence": "Er hatte eine gute Auswirkung auf mich"
+    },
+    {
+        "wordDE": "Erschrecken",
+        "wordEN": "To scare",
+        "type": "Verb",
+        "sentence": "Erschreck mich nicht mehr oder ich werde sehr wütend sein!"
+    },
+    {
+        "wordDE": "Schneiden",
+        "wordEN": "To cut",
+        "type": "Verb",
+        "sentence": "Kannst du mir helfen, das Papier zu schneiden"
+    },
+    {
+        "wordDE": "Vorschlagen",
+        "wordEN": "To suggest",
+        "type": "Verb",
+        "sentence": "Schlag mir ein neues Auto vor, bitte"
+    },
+    {
+        "wordDE": "Bunt",
+        "wordEN": "colorful",
+        "type": "Adjective",
+        "sentence": "Der Regenbogen hat viele bunte Farben"
+    },
+    {
+        "wordDE": "Die Suche",
+        "wordEN": "The search",
+        "type": "Noun",
+        "sentence": "Ich bin immer noch auf die Suche nach der Eins"
+    },
+    {
+        "wordDE": "Töten",
+        "wordEN": "To kill",
+        "type": "Verb",
+        "sentence": "Während des Kriegs wurden viele Menschen getötet."
+    },
+    {
+        "wordDE": "Verbieten",
+        "wordEN": "To forbid",
+        "type": "Verb",
+        "sentence": "Nein! Du darfst nicht raus gehen! Ich verbiete es dir!"
+    },
+    {
+        "wordDE": "Die Bedeutung, -en",
+        "wordEN": "The meaning",
+        "type": "Noun",
+        "sentence": "Was ist die Bedeutung des Lebens?"
+    },
+    {
+        "wordDE": "Christlich",
+        "wordEN": "christian",
+        "type": "Adjective",
+        "sentence": "Bist du christlich oder...?"
+    },
+    {
+        "wordDE": "Fortsetzen",
+        "wordEN": "To continue",
+        "type": "Verb",
+        "sentence": "Willst du das Spiel fortsetzen?"
+    },
+    {
+        "wordDE": "Integrieren",
+        "wordEN": "The integrate",
+        "type": "Verb",
+        "sentence": "Möchtest du mit uns integrieren?"
+    },
+    {
+        "wordDE": "Beantworten",
+        "wordEN": "To answer",
+        "type": "Verb",
+        "sentence": "Sollte ich ihn beantworten, oder warten?"
+    },
+    {
+        "wordDE": "Einkaufen",
+        "wordEN": "To shop",
+        "type": "Verb",
+        "sentence": "Können wir später einkaufen gehen?"
+    },
+    {
+        "wordDE": "Mitbringen",
+        "wordEN": "To bring with",
+        "type": "Verb",
+        "sentence": "Ich bringe all meine Freunde mit!"
+    },
+    {
+        "wordDE": "Verraten",
+        "wordEN": "To betray",
+        "type": "Verb",
+        "sentence": "Brutus hat ihn leider auch verraten"
+    },
+    {
+        "wordDE": "Verstecken",
+        "wordEN": "To hide",
+        "type": "Verb",
+        "sentence": "Komm schon! Wir verstecken uns vor Hans!"
+    },
+    {
+        "wordDE": "Kritisieren",
+        "wordEN": "To critisize",
+        "type": "Verb",
+        "sentence": "Viele Zeitungen kritisieren Gerrit, weil er gar nicht lustig ist."
+    },
+    {
+        "wordDE": "Atmen",
+        "wordEN": "To breath",
+        "type": "Verb",
+        "sentence": "Wir mussen atmen, um zu überleben."
+    },
+    {
+        "wordDE": "Deuten",
+        "wordEN": "To interpret",
+        "type": "Verb",
+        "sentence": "Wie Deutest du die Problem?"
+    },
+    {
+        "wordDE": "Verfolgen",
+        "wordEN": "To pursue",
+        "type": "Verb",
+        "sentence": "Die Polizei verfolgt den Täter"
+    },
+    {
+        "wordDE": "Riechen",
+        "wordEN": "To smell",
+        "type": "Verb",
+        "sentence": "Riechst du das? Dieser Geruch ist schrecklich!"
+    },
+    {
+        "wordDE": "Der Ordner, -",
+        "wordEN": "The folder",
+        "type": "Noun",
+        "sentence": "Dieser Ordner ist auch super alt!"
+    },
+    {
+        "wordDE": "Das Gebäude, -",
+        "wordEN": "The building",
+        "type": "Noun",
+        "sentence": "Wie alt ist dieses Gebäude?"
+    },
+    {
+        "wordDE": "Die Überraschung, -en",
+        "wordEN": "The surprise",
+        "type": "Noun",
+        "sentence": "Das ist toll! Was für eine Überraschung!"
+    }
+]
