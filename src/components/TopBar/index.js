@@ -1,7 +1,7 @@
 import React from 'react';
-import ColorBar from '../ColorBar'
-import Slider from '../Slider'
-import ViewPrev from '../ViewPrev'
+import ColorBar from './ColorBar'
+import Slider from './Slider'
+import ViewPrev from './ViewPrev'
 
 const TopBar = ({buttonText, handleViewPrev}) => {
     return(

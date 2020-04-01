@@ -1,3 +1,11 @@
+## German-Word-A-Day
+
+German-Word-A-Day was created to help the German-learners of the world learn an additional word each day.
+
+As somebody who has been learning the German language on and off for a few years now, I couldn't find a 'German-Word-A-Day' that had a minimal, easy-to-read UI that wasn't cluttered, so that inspired me to make my own.
+
+### ----------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
