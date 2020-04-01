@@ -42,7 +42,7 @@ class Slider extends Component {
         // Strengthens orange colors on the page behind text
         document.querySelectorAll('.text-highlight').forEach(e => e.classList.toggle('bannerTextDark'));
         // All general text on the page
-        document.querySelectorAll('p, a, span, label, strong, h3, h2, .is-size-3, .is-size-4, .is-size-5, .is-size-6, .projectTitle').forEach(e => e.classList.toggle('darkText'));
+        document.querySelectorAll('p, a, button, span, label, strong, h3, h2, .is-size-3, .is-size-4, .is-size-5, .is-size-6, .projectTitle').forEach(e => e.classList.toggle('darkText'));
 
       }
 }

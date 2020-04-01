@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import TopBar from './components/TopBar';
 import ContentBody from './components/ContentBody'
 import AppFooter from './components/footer';
-// import GermanList from './data/german.json';
 
 import './css/bulma.min.css';
 import './css/styles.scss';
