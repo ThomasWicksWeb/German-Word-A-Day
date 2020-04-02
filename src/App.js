@@ -33,7 +33,7 @@ class App extends Component {
   handleViewPrev = () => {
     if(this.state.showCurrentDay === true){
       this.setState({
-        DOTY: this.getDayOfTheYear() + 1,
+        DOTY: this.getDayOfTheYear() - 1,
         showCurrentDay: false,
         viewPrevText: "View Today's Word"
       })
