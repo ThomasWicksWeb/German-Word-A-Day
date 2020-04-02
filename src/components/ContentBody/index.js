@@ -1,6 +1,7 @@
 import React from 'react';
 import GermanList from './data/german.json'
 
+// DOTY is the current Day Of The Year, used to get the position in the JSON array
 const ContentBody = ({DOTY}) => {
 
     // Sorting the json in a somewhat random order so the words don't appear in alphabetical order

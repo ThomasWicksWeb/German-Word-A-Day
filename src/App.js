@@ -3,7 +3,8 @@ import TopBar from './components/TopBar';
 import ContentBody from './components/ContentBody'
 import AppFooter from './components/footer';
 
-import './css/bulma.min.css';
+import 'bulma/css/bulma.css'
+
 import './css/styles.scss';
 import './css/darkStyles.scss';
 
