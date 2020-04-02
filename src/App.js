@@ -4,7 +4,6 @@ import ContentBody from './components/ContentBody'
 import AppFooter from './components/footer';
 
 import 'bulma/css/bulma.css'
-
 import './css/styles.scss';
 import './css/darkStyles.scss';
 
@@ -49,7 +48,10 @@ class App extends Component {
   render(){
     return (
       <>
-        <TopBar buttonText={this.state.viewPrevText} handleViewPrev={this.handleViewPrev} />
+        <TopBar
+          buttonText={this.state.viewPrevText}
+          handleViewPrev={this.handleViewPrev}
+        />
         <ContentBody 
           DOTY={this.state.DOTY}
         />
