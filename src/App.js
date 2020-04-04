@@ -14,7 +14,6 @@ const App = () => {
   const [viewPrevText, setViewPrevText] = useState("View Yesterday's Word");
 
   useEffect(() => {
-    console.log("Hello");
     getDayOfTheYear();
   }, []);
 
