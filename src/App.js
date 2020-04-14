@@ -9,14 +9,17 @@ import './css/styles.scss';
 import './css/darkStyles.scss';
 
 const App = () => {
+  // Setting components state
   const [showCurrentDay, setShowCurrentDay] = useState(true);
-  const [DOTY, setDOTY] = useState(0);
+  const [DOTY, setDOTY] = useState(0); // Passed to both <ContentBody /> and used for "View Prev Day" button in <TopBar />
   const [viewPrevText, setViewPrevText] = useState("View Yesterday's Word");
 
+  // Invoking function on page load to set the state for the current day of the year with setDOTY();
   useEffect(() => {
     getDayOfTheYear();
   }, []);
 
+  // Sets state for DOTY and returns that value
   const getDayOfTheYear = () => {
     const now = new Date();
     const start = new Date(now.getFullYear(), 0, 0);
@@ -27,6 +30,7 @@ const App = () => {
     return day;
   }
 
+  // Button handler for when the 'View Yesterday's Word' button
   const handleViewPrev = () => {
     if(showCurrentDay === true){
       setDOTY(DOTY - 1);
