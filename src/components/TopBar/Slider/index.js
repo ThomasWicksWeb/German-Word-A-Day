@@ -20,6 +20,8 @@ class Slider extends Component {
         )
     }
 
+    // Check for current hour of the day when the component is loaded
+    // Turns on dark mode accordingly
     componentDidMount(){
         if (this.state.currentHourOfDay <= 5 || this.state.currentHourOfDay >= 20) {
             this.darken();
@@ -28,8 +30,8 @@ class Slider extends Component {
         };
     }
 
+    // Toggles dark mode and updates component's state accordingly
     darken = () => {
-
         if(this.state.isDark === true){
             this.setState({isDark: false});
         } else {

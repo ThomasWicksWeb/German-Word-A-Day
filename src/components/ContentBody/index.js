@@ -1,4 +1,6 @@
 import React from 'react';
+
+// All German data
 import GermanList from './data/german.json'
 
 // DOTY is the current Day Of The Year, used to get the position in the JSON array
