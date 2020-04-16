@@ -9,6 +9,7 @@ import './css/styles.scss';
 import './css/darkStyles.scss';
 
 const App = () => {
+  
   // Setting components state
   const [showCurrentDay, setShowCurrentDay] = useState(true);
   const [DOTY, setDOTY] = useState(0); // Passed to both <ContentBody /> and used for "View Prev Day" button in <TopBar />
